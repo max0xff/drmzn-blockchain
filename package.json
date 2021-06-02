@@ -1,0 +1,22 @@
+{
+  "name": "drmzn-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "@types/crypto-js": "^4.0.1",
+    "@types/elliptic": "^6.4.12",
+    "@types/koa__router": "^8.0.4",
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.45",
+    "@swc/core": "^1.2.58"
+  }
+}
